@@ -1,1 +1,2 @@
-this file is used to fix calling featur.
+1st bug fixed
+2nd bug fixed
