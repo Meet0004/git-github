@@ -1,0 +1,12 @@
+console.log("DARK-mode switched ON");
+document.body.style.backgroundColor = "#121212";
+document.body.style.color = "#FFFFFF";
+console.log("ORANGE-mode switched ON");
+document.body.style.backgroundColor = "#FFA500";
+document.body.style.color = "#000000";
+console.log("DARK-mode switched ON");
+document.body.style.backgroundColor = "#121212";
+document.body.style.color = "#FFFFFF";
+console.log("ORANGE-mode switched ON");
+document.body.style.backgroundColor = "#FFA500";
+document.body.style.color = "#000000";
